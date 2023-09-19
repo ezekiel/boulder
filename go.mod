@@ -38,7 +38,7 @@ require (
 	golang.org/x/net v0.11.0
 	golang.org/x/sync v0.2.0
 	golang.org/x/term v0.11.0
-	golang.org/x/text v0.10.0
+	golang.org/x/text v0.13.0
 	google.golang.org/grpc v1.54.0
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/go-jose/go-jose.v2 v2.6.1
